@@ -11,7 +11,7 @@
     "react-phone-input-2": "2.9.5",
     "react-phone-number-input": "2.3.21",
     "react-router": "^5.0.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "react-select": "3.0.4",
     "react-select-country-list": "2.0.1"
   },
